@@ -1,0 +1,2 @@
+# Extended-Expectation-Maximization
+This code was developed by Aref Miri Rekavandi for the paper: Rekavandi, A. M., Seghouane, A. K., Boussaid, F., & Bennamoun, M. (2023, June). Extended Expectation Maximization for Under-Fitted Models. In ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 1-5). IEEE. If you use this code in your study, kindly cite the aforementioned paper.
